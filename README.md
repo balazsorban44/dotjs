@@ -13,6 +13,7 @@ Our goal is to create a separate governance committee who can run this TLD. An e
 2. next.js
 3. surabaya.js
 4. node-fetch.js
+5. auth.js
 
 ## Unclaimed reserved domains
 1. abbrev.js
